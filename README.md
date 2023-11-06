@@ -40,7 +40,7 @@ Me gusta estar al tanto de cada detalle y avance en el proyecto en el que estoy 
   <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
   </a>
-  <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.html.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
   </a>
   <br>
